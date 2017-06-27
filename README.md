@@ -29,6 +29,8 @@ Details
     It is expected that the individual or the team should be able to clearly explain the entire analytical and algorithm building process steps by step in a form of a presentation. The individual or the teams can leverage any statistical tool of their choice to deliver the work output.
 
     Success Criteria – Step by Step model building presentation and a working algorithm
-
+    
     Data Access and Usage limitations – The users can create features out of the data if required with a valid reason for taking that route. Considering the fact that it is fairly and easy a light dataset creating too many features may reduce the chances of success.
     Data – The dataset has 4k rows worth of data with 12 variables out of which 1 is Response variable (Fraud Instance) remaining variable are predictor variables.
+
+See Wiki
