@@ -38,9 +38,8 @@ X_train2, X_test2, y_train2, y_test2 = train_test_split(X_train, y_train, test_s
 clf = DecisionTreeClassifier(random_state = 0 ,max_depth = 3).fit(X_train2, y_train2)
 #model score
 print('Accuracy of Decision Tree classifier on training set: {:.2f}'.format(clf.score(X_train2, y_train2)))
-print('Accuracy of Decision Tree classifier on test set: {:.2f}'.format(clf.score(X_test2, y_test2)))
 probs = clf.predict(X_test2)
-print('Accuracy of Decision Tree classifier on validation set: {:.2f}'.format(clf.score(X_test2, probs)))
+print('Accuracy of Decision Tree classifier on test set: {:.2f}'.format(clf.score(X_test2, probs)))
 # compute fpr, tpr, and threshold for the validation test set
 fpr_lr, tpr_lr, _ = roc_curve(y_test2, probs)
 roc_auc_lr = auc(fpr_lr, tpr_lr)
