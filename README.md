@@ -69,4 +69,4 @@ Details
 
 ## Next steps: see Fraud_next_step.ipynb
 * Increase of amount of layer in Decision Tree (4 layers) seems to perfectly fit
-* Use of another classifier also seems to overfit
+* Dataset seems synthetic
