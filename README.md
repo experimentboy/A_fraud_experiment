@@ -67,4 +67,6 @@ Details
 
 ![](https://github.com/experimentboy/A_fraud_experiment/blob/master/Fraud_start_FIplot.png)
 
-
+## Next steps:
+* Increase of amount of layer in Decision Tree seems to overfit
+* Use of another classifier also seems to overfit
