@@ -59,7 +59,7 @@ Details
 1. 'Height (cms)'
 
 
-
+![](https://github.com/experimentboy/A_fraud_experiment/blob/master/feature_importance.pgn.png)
 
 
 
