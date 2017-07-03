@@ -30,9 +30,9 @@ Details
 
     Success Criteria – Step by Step model building presentation and a working algorithm
     
-    # Welcome to the A_fraud_experiment wiki!
 
-## Initial approach : fraud_dt.py
+
+## Initial approach :
 
 * [Dataset](https://docs.google.com/spreadsheets/d/1TufF3QBHK8RsC06V0arvF3PwN3gfz5kg5eV6BjRxEjc/edit#gid=581816440) Analysis show binary, continuous and categorical data.
 
