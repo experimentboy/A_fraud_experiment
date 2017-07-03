@@ -30,6 +30,44 @@ Details
 
     Success Criteria – Step by Step model building presentation and a working algorithm
     
+    # Welcome to the A_fraud_experiment wiki!
+
+## Initial approach : fraud_dt.py
+
+* [Dataset](https://docs.google.com/spreadsheets/d/1TufF3QBHK8RsC06V0arvF3PwN3gfz5kg5eV6BjRxEjc/edit#gid=581816440) Analysis show binary, continuous and categorical data.
+
+![](https://github.com/experimentboy/A_fraud_experiment/blob/master/dataset.png)
+
+* Binary data are used asis.
+* Continuous data are normalized.
+* Categorical data are simplified (transformed in binary).
+* Train a Decision Tree model (limited to 3 level) to identify the most important features.
+
+### Initial Results : 
+
+* Accuracy of Decision Tree classifier on training set: 0.91
+* Accuracy of Decision Tree classifier on test set: 0.90
+* AUC on validation set: 0.9028665063372497
+
+![](https://github.com/experimentboy/A_fraud_experiment/blob/master/Fraud_dt_ROC.png)
+
+### Top feature per importance : 
+1. 'Damaged Item'
+1. 'Item Not Avaiable' 
+1. 'Product Care Plan'
+1. 'Item Not In Stock'
+1. 'Height (cms)'
+
+
+
+
+
+
+
+
+
+
+    
     Data Access and Usage limitations – The users can create features out of the data if required with a valid reason for taking that route. Considering the fact that it is fairly and easy a light dataset creating too many features may reduce the chances of success.
     Data – The dataset has 4k rows worth of data with 12 variables out of which 1 is Response variable (Fraud Instance) remaining variable are predictor variables.
 
