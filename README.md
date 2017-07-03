@@ -44,6 +44,12 @@ Details
 * Categorical data are simplified (transformed in binary).
 * Train a Decision Tree model (limited to 3 level) to identify the most important features.
 
+### Decision Tree Classifier : 
+
+* We use here a simple Decision Tree classifier with only 3 layer
+
+![](https://github.com/experimentboy/A_fraud_experiment/blob/master/Fraud_start_dtplot.png)
+
 ### Initial Results : 
 
 * Accuracy of Decision Tree classifier on training set: 0.91
@@ -57,7 +63,6 @@ Details
 1. 'Item Not Avaiable' 
 1. 'Product Care Plan'
 1. 'Item Not In Stock'
-
 
 ![](https://github.com/experimentboy/A_fraud_experiment/blob/master/feature_importance.pgn.png)
 
