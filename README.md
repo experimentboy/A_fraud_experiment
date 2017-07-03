@@ -42,6 +42,7 @@ Details
 * Binary data are used asis.
 * Continuous data are normalized.
 * Categorical data are simplified (transformed in binary).
+* Dataset is splited in Train and Test set (ratio 75/25).
 * Train a Decision Tree model (limited to 3 level) to identify the most important features.
 
 ### Decision Tree Classifier : 
@@ -65,7 +66,5 @@ Details
 1. 'Item Not In Stock'
 
 ![](https://github.com/experimentboy/A_fraud_experiment/blob/master/Fraud_start_FIplot.png)
-
-
 
 
