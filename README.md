@@ -33,7 +33,7 @@ Details
     Data Access and Usage limitations – The users can create features out of the data if required with a valid reason for taking that route. Considering the fact that it is fairly and easy a light dataset creating too many features may reduce the chances of success.
     Data – The dataset has 4k rows worth of data with 12 variables out of which 1 is Response variable (Fraud Instance) remaining variable are predictor variables.
 
-## Initial approach :
+## Initial approach : see Fraud_start.ipynb
 
 * [Dataset](https://docs.google.com/spreadsheets/d/1TufF3QBHK8RsC06V0arvF3PwN3gfz5kg5eV6BjRxEjc/edit#gid=581816440) Analysis show binary, continuous and categorical data.
 
