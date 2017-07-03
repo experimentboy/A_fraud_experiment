@@ -67,6 +67,6 @@ Details
 
 ![](https://github.com/experimentboy/A_fraud_experiment/blob/master/Fraud_start_FIplot.png)
 
-## Next steps:
-* Increase of amount of layer in Decision Tree seems to overfit
+## Next steps: see Fraud_next_step.ipynb
+* Increase of amount of layer in Decision Tree (4 layers) seems to perfectly fit
 * Use of another classifier also seems to overfit
