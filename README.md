@@ -30,7 +30,8 @@ Details
 
     Success Criteria – Step by Step model building presentation and a working algorithm
     
-
+    Data Access and Usage limitations – The users can create features out of the data if required with a valid reason for taking that route. Considering the fact that it is fairly and easy a light dataset creating too many features may reduce the chances of success.
+    Data – The dataset has 4k rows worth of data with 12 variables out of which 1 is Response variable (Fraud Instance) remaining variable are predictor variables.
 
 ## Initial approach :
 
@@ -62,13 +63,5 @@ Details
 ![](https://github.com/experimentboy/A_fraud_experiment/blob/master/feature_importance.pgn.png)
 
 
-
-
-
-
-
-    
-    Data Access and Usage limitations – The users can create features out of the data if required with a valid reason for taking that route. Considering the fact that it is fairly and easy a light dataset creating too many features may reduce the chances of success.
-    Data – The dataset has 4k rows worth of data with 12 variables out of which 1 is Response variable (Fraud Instance) remaining variable are predictor variables.
 
 
