@@ -57,7 +57,6 @@ Details
 1. 'Item Not Avaiable' 
 1. 'Product Care Plan'
 1. 'Item Not In Stock'
-1. 'Height (cms)'
 
 
 ![](https://github.com/experimentboy/A_fraud_experiment/blob/master/feature_importance.pgn.png)
