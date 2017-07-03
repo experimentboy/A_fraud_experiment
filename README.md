@@ -64,7 +64,7 @@ Details
 1. 'Product Care Plan'
 1. 'Item Not In Stock'
 
-![](https://github.com/experimentboy/A_fraud_experiment/blob/master/feature_importance.pgn.png)
+![](https://github.com/experimentboy/A_fraud_experiment/blob/master/Fraud_start_FIplot.png)
 
 
 
