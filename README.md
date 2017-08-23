@@ -1,6 +1,8 @@
 # A_fraud_experiment
 Coursera Data Science Community project
 
+![](https://github.com/experimentboy/A_fraud_experiment/blob/master/fraud.jpg)
+
 Overview
 
 Identify the fraud propensity for a retail company based on a 4K rows worth of data with 1 target variable (Fraud Instance) and 11 predictor variables
